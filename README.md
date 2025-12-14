@@ -4,4 +4,4 @@ Just download the theme folder and import it into the custom theme settings
 
 the icon is optional, it's meant to be a custom icon (you can change it in the settings)
 
-also this has only been tested on voidstrap 🤫
+also this has only been tested on fishstrap and voidstrap 🤫
